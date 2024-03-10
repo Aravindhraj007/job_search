@@ -27,7 +27,7 @@ The Job Finder App includes the following features:
 
 To run the Job Finder App locally, follow these steps:
 
-1. Clone this repository using `git clone git@github.com:Touisse/Job_Finder.git`
+1. Clone this repository using `git clone https://github.com/Aravindhraj007/job_search.git`
 2. Install dependencies using `npm install`
 3. Create a `.env` file in the root directory and set the following environment variables:
 4. Start the development server using `npm start`
@@ -51,7 +51,7 @@ The Job Finder App uses the following technologies:
 - ReactJS
 - Node.js
 - Express
-- MongoDB
+- MySql
 - Axios
 - Bootstrap
 - Nodemailer
@@ -73,7 +73,3 @@ The Job Finder App is licensed under the [MIT License](https://opensource.org/li
 ## Contact
 
 If you have any questions or comments about the Job Finder App, please feel free to contact us at [your email address]. We appreciate your feedback and suggestions!
-
-## Interfaces 
-<img width="2125" alt="Screen Shot 2023-03-01 at 5 27 26 PM" src="https://user-images.githubusercontent.com/63207127/222201437-06cf9a68-d4ee-414c-be46-996b36365aaa.png">
-<img width="2091" alt="Screen Shot 2023-03-01 at 5 27 37 PM" src="https://user-images.githubusercontent.com/63207127/222201468-0db8a0f4-f87f-4778-a0d7-8660d01a9149.png">
